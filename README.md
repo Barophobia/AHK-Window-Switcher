@@ -19,6 +19,3 @@ Current buttons are set to Numpad 1,2,3 these are changable by using the AHK But
 
 * [AHK](https://www.autohotkey.com/) - Macro Software
 
-## Authors
-
-* **George Rose** - [Barophobia](https://github.com/Barophobia)
